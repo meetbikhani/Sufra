@@ -1,4 +1,4 @@
-# 🍽️ Sufra - Food Waste Management Platform
+# 🍽️ Sufra - Your go-to app for cheaper food
 
 > **Bridging surplus food with those who need it most**
 
@@ -21,7 +21,7 @@ Promote zero food waste, ensure access to affordable meals, and support the UN S
 
 ## 👥 Target Users
 
-- **Low-income citizens** who struggle to afford regular meals
+- **Citizens with a Humble Financial background** who struggle to afford regular meals
 - **Daily wage workers** who often skip meals due to high food prices
 - **Hotels & Restaurants** with surplus food after service hours
 - **NGOs & Community Organizations** tracking and redistributing excess meals
@@ -33,45 +33,43 @@ Promote zero food waste, ensure access to affordable meals, and support the UN S
 ### Pain Points:
 
 1. **Massive Food Waste**: Hotels, weddings, and celebrations discard large quantities of edible food daily due to lack of efficient redistribution systems.
-
-2. **No Connection**: No transparent, real-time link between food surplus and those who need it most.
-
+2. **No Connection**: No transparent, real-time link between restaurants with food surplus and people who need it most.
 3. **Food Insecurity**: Daily wage workers often skip meals due to high food prices and limited access to affordable options.
 
 ### Why It's Urgent:
 - ✅ Promotes zero food waste
-- ✅ Ensures access to meals at lower prices
+- ✅ Ensures access to healty and warm meals at lower prices
 - ✅ Supports UN Sustainable Development Goals
-- ✅ Creates immediate humanitarian impact
-- ✅ Fosters long-term food security
+- ✅ Creates positive humanitarian impact
+- ✅ Fosters long-term food security as a result
 
 ---
 
 ## ✨ Features
 
 ### 🏨 For Hotels
-- Upload surplus food with name, quantity, and price
-- Automatic location detection
-- Real-time inventory management
-- Reduce waste while earning revenue
+- Upload availability of excess food with name, quantity, price and its expected time of going bad.
+- Automatic location detection.
+- Real-time inventory management.
+- Reduce waste for the restaurants while earning them quick cash for the same.
 
 ### 👷 For Workers
-- Budget-based food search
-- Location filtering (within 5km, 10km, etc.)
-- Distance display for each option
+- Budget friendly food search
+- Gradually increasing the Search Radius
+- Information Access for each available restaurant option
 - Instant booking with QR code
 
 ### 🤖 AI-Powered
-- Natural language chat interface
-- Smart recommendations based on budget, distance, and preferences
-- Context-aware responses
-- Multilingual support (future)
+- AI bot availability with human like interaction capabilities
+- Smart recommendations based on budget, distance, and food preferences
+- Context-aware responses based on previous preferences.
+- Multilingual support (future implementation)
 
 ---
 
 ## 🎬 Demo Story
 
-> **Abdul's Story**: Abdul, a worker in Dubai, often skipped meals to save money for his family in India. Through Sufra, he found surplus hotel meals at low prices. That night, his first warm dinner showed how technology and kindness can nourish hope.
+> **Abdul's Story**: Abdul, a weary worker in Dubai, often spent his breaks hungry, saving every dirham for his family in India. One day, he discovered Sufra—a lifeline connecting surplus hotel meals to people like him. That evening, his first warm meal reminded him that compassion, paired with technology, can truly feed hope.
 
 **Watch Demo**: [https://tinyurl.com/mr3auy8r](https://tinyurl.com/mr3auy8r)
 
@@ -97,13 +95,13 @@ Promote zero food waste, ensure access to affordable meals, and support the UN S
 
 ### Tech Stack
 
-| Layer | Technology |
-|-------|------------|
-| **Frontend** | React & React Native |
-| **Backend** | FastAPI + Django + MongoDB |
-| **AI Layer** | Gemini (Google) + LangChain + LangGraph |
-| **APIs** | Google Maps / Geolocation APIs |
-| **Deployment** | AWS |
+| Layer          | Technology                              |
+|----------------|-----------------------------------------|
+| **Frontend**   | React & React Native                    |
+| **Backend**    | FastAPI + Django + MongoDB              |
+| **AI Layer**   | Gemini (Google) + LangChain + LangGraph |
+| **APIs**       | Google Maps / Geolocation APIs          |
+| **Deployment** | AWS                                     |
 
 ---
 
@@ -113,8 +111,8 @@ Promote zero food waste, ensure access to affordable meals, and support the UN S
 
 ### For Hotels:
 1. Upload surplus food (name, quantity, price, location)
-2. Data stored in MongoDB database
-3. Food becomes available for workers
+2. Data stored in a MongoDB database
+3. Food becomes available for workers instantly on the app
 
 ### For Workers:
 1. Enter budget and preferences
@@ -130,11 +128,11 @@ Promote zero food waste, ensure access to affordable meals, and support the UN S
 
 ### AI Capabilities:
 
-1. **Advanced Reasoning**: Matches user budget and preferences with nearby food
-2. **Natural Language Processing**: Easy, human-like communication
-3. **Smart Ranking**: Optimizes by distance, budget, and availability
-4. **Multilingual Support**: Accessible worldwide (future)
-5. **Real-time Processing**: Instant geolocation and matching
+1. **Advanced Reasoning**          : Matches user budget and preferences with nearby food
+2. **Natural Language Processing** : Easy, human-like communication
+3. **Smart Ranking**               : Optimizes by distance, budget, and availability
+4. **Multilingual Support**        : Accessible worldwide (future)
+5. **Real-time Processing**        : Instant geolocation and matching
 
 ---
 
